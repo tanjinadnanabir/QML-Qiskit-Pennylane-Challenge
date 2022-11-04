@@ -1,2 +1,3 @@
 # QML-Qiskit-Pennylane-Challenge
-Quantum Machine Learning Practice, Projects Repo
+Quantum Machine Learning Practice and Projects  
+
